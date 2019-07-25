@@ -1,3 +1,3 @@
 const db = require("mongoose")
-db.connect("mongodb://47.111.166.60:27017/my");
+db.connect("mongodb://39.96.84.220:27017/db");
 module.exports = db;
